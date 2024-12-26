@@ -1,4 +1,4 @@
-# 💻 Web3 Developer | NFTs | DAOs | Public Goods | Open Source Tech
+# 💻 Web3 Developer | NFTs | DAOs
 
 ---
 
@@ -8,8 +8,6 @@ I am a **Web3 Developer** passionate about building decentralized technologies t
 
 - **NFTs**: Designing and deploying innovative NFT projects.
 - **DAOs**: Developing governance tools for decentralized organizations.
-- **Public Goods**: Contributing to open-source projects that benefit the Web3 ecosystem.
-- **Open Source Tech**: Advocating for transparency and collaboration through open-source contributions.
 
 I primarily code in **TypeScript** and the broader **JavaScript ecosystem**, leveraging frameworks and libraries to deliver robust and scalable solutions.
 
@@ -34,19 +32,6 @@ I primarily code in **TypeScript** and the broader **JavaScript ecosystem**, lev
 #### **Other Tools**
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
-
----
-
-### 🌟 Projects
-
-#### [MeritDAOcracy](#)
-A governance platform for DAOs using **Soulbound tokens** to reward contributors with merit-based voting power. Built on **Polygon**, utilizing **Hardhat**, **IPFS**, and **Ethers.js**.
-
-#### [DAO Club](#)
-A Web3 app optimizing quadratic funding outcomes using community tokens, badges, and reputation systems.
-
-#### [Open Source Contributions](#)
-Actively contributing to public goods projects in the Web3 ecosystem.
 
 ---
 
